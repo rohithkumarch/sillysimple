@@ -1,0 +1,4 @@
+sillysimple
+===========
+
+simple date display
